@@ -1,0 +1,8 @@
+.cache
+.cpcache
+.nrepl-port
+*.mjs
+*_cherry.*
+.calva
+.clj-kondo
+.lsp
